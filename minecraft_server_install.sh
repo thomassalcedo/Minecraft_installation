@@ -24,7 +24,7 @@ function usage {
     echo "Works on Debian system"
     echo "--------------------------------------------------------------"
     echo "To install a new minecraft server :"
-    echo "./minecraft_server_install.sh install [options]"
+    echo "sudo ./minecraft_server_install.sh install [options]"
     echo "Options:"
     echo "  -h, --help                    : Display this help message"
     echo "  -u, --user {value}            : Set the default username (default is \"minecraft\")"
