@@ -10,8 +10,8 @@ This script automatically install a minecraft server for you.
 - Enable trafic through iptables firewall
 - Create a service and enable it
 
-## Manual
-sudo ./minecraft_server_install.sh install [options]
+## Manual
+`sudo ./minecraft_server_install.sh install [options]`
 Options:
   -h, --help                    : Display this help message
   -u, --user {value}            : Set the default username (default is "minecraft")
